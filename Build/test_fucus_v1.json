@@ -1,0 +1,13 @@
+{
+"companyName": "AT",
+"productName": "TappyBird",
+"dataUrl": "test_fucus_v1.data.unityweb",
+"wasmCodeUrl": "test_fucus_v1.wasm.code.unityweb",
+"wasmFrameworkUrl": "test_fucus_v1.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "test_fucus_v1.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
